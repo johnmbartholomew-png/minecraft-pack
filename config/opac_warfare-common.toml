@@ -1,0 +1,16 @@
+#Enables additional server-side Custom Claims debug logging.
+debug_logging = false
+#Operator level accepted by the permission service.
+# Default: 2
+# Range: 0 ~ 4
+op_permission_level = 2
+
+[metrics]
+	#Enables anonymous dedicated-server heartbeat metrics.
+	enabled = true
+	#HTTP(S) endpoint that receives anonymous metrics heartbeats. Empty means no heartbeat is sent.
+	endpoint = "https://customclaims-metrics.svinpepe.workers.dev/heartbeat"
+
+[permissions]
+	#Permission nodes granted to every player without requiring OP or tags.
+	default_player_permissions = ["opac.warfare.start", "opac.warfare.cancel", "opac.warfare.status", "opac.protection.claimrules", "opac.protection.explosions.status", "opac.protection.explosions.toggle", "opac.protection.create.status", "opac.protection.create.toggle", "opac.protection.assembly.status", "opac.protection.assembly.toggle"]

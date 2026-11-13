@@ -1,0 +1,5 @@
+config/resourceful-config-web.json
+config/sodium-fingerprint.json
+README.md
+.git/
+.nojekyll

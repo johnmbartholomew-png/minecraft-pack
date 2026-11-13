@@ -1,0 +1,13 @@
+name = "Origins Legacy: NeoForged"
+filename = "origins-1.11.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LL8MjxJr/versions/U0gHSmVL/origins-1.11.10.1.jar"
+hash-format = "sha512"
+hash = "24d1c2b3cf777557de444fdc21cc0c2f02c1a2535b5ca6d84edb71bd538b780874bebfa29fdc5fa9c1eff06cb4e731a84c1805d64c8fa247be7c6acc86cb6380"
+
+[update]
+[update.modrinth]
+mod-id = "LL8MjxJr"
+version = "U0gHSmVL"
