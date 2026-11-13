@@ -1262,6 +1262,11 @@ hash = "05884675211a3b35feddbdef24e8da4d970954a21e5e5586a9bf5a97a1103033"
 metafile = true
 
 [[files]]
+file = "mods/book-of-dragons.pw.toml"
+hash = "84b36f21beea1d5d226bceacabe42e5be0ec86e6b58cab70aa4544ff61273bb4"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "d20e603af6e9156021a1b8db31edd187a089b2b21cd7f70fa7eb7507bf81dbf9"
 metafile = true
@@ -1449,6 +1454,11 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "a72d0e28aaf0b93d674ac2ba92d9713e63cb91df21739bc7d72db5477a299f32"
+metafile = true
+
+[[files]]
+file = "mods/fauna-engine.pw.toml"
+hash = "eddaa680d735f590dd94b6928c851f941a22ceb0afc85bedd9558cd003d6fe2d"
 metafile = true
 
 [[files]]
